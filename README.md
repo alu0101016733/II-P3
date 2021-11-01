@@ -8,6 +8,7 @@ Debug.DrawRay utilizar para comprobar que el objeto apunta al otro objeto
 * Implementar un controlador que mueva el objeto con wasd
 * Buscar información de Debug.DrawRay y utilízala para depuración.
 
-[delegates example](https://www.adictosaltrabajo.com/2020/06/18/usar-delegates-y-events-en-unity/)
 
-[Debug DrawRay](https://docs.unity3d.com/ScriptReference/Debug.DrawRay.html)
+
+https://user-images.githubusercontent.com/60736352/139681504-92fb58e1-a036-47c5-bfaf-f3590ab1e550.mp4
+
