@@ -9,6 +9,11 @@ Debug.DrawRay utilizar para comprobar que el objeto apunta al otro objeto
 * Buscar información de Debug.DrawRay y utilízala para depuración.
 
 
+## Video Demonstrando funcionamiento:
+
+(File is also in this repo, with name interaction.mp4)
 
 https://user-images.githubusercontent.com/60736352/139681504-92fb58e1-a036-47c5-bfaf-f3590ab1e550.mp4
+
+
 
